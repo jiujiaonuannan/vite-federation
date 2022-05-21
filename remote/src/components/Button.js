@@ -27,5 +27,3 @@ const button = {
 };
 
 export default button;
-© 2022 GitHub, Inc.
-Terms
